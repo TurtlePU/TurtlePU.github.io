@@ -34,6 +34,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 remote_theme: jekyll/minima
+minima:
+  skin: auto
 kramdown:
   math_engine: katex
 
